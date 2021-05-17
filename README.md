@@ -1,5 +1,5 @@
 # Econometric-Games-2021
-This is a repository containing the final paper written by NES team at Econometric Games 2021.
+This is a repository containing the final paper written by New Economic School (NES) team at Econometric Games 2021.
 
 The cite of Econometric Games 2021: https://wceconometrics.com/35508-2/
 
